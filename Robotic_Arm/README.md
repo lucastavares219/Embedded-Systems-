@@ -1,1 +1,1 @@
-
+The Code developed for this project is a sequence of movements used to control a robotic-arm to grab a small object and put it in a cup, using 4 servo-motors and Arduino. The positions written in the motors were callibrated first using potenciometers and intermediate-testing, but this code only contains the final version with automatic moves.  
