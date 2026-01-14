@@ -1,1 +1,1 @@
-
+This project was a great way to understand better how UART communication works. A number was typed on the Arduino serial monitor, wich functioned as the transmitter (TX), then it would send the number in binary to the FPGA, which functioned as the reciever (RX), then the number was decoded by the FPGA, and written on the 7 segment display of the development board.  
